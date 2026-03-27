@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Arrays;
 import java.util.Map;
 
 /**
@@ -37,5 +38,27 @@ public class Solution {
 
         // 根据多数题目约束通常不会走到这里；保底返回空数组
         return new int[0];
+    }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+
+        int[][] inputs = {
+                {2, 7, 11, 15},
+                {3, 2, 4}
+        };
+        int[] targets = {9, 6};
+        int[][] expected = {
+                {0, 1},
+                {1, 2}
+        };
+
+        for (int i = 0; i < inputs.length; i++) {
+            int[] result = solution.twoSum(inputs[i], targets[i]);
+            System.out.println("调用: twoSum(" + Arrays.toString(inputs[i]) + ", " + targets[i] + ")");
+            System.out.println("预期结果: " + Arrays.toString(expected[i]));
+            System.out.println("实际结果: " + Arrays.toString(result));
+            System.out.println();
+        }
     }
 }

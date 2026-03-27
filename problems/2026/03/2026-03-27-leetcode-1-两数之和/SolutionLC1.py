@@ -19,3 +19,26 @@ class Solution:
 
         # 保底返回（按题意通常不会触发）
         return []
+
+
+if __name__ == "__main__":
+    solution = Solution()
+
+    inputs = [
+        [2, 7, 11, 15],
+        [3, 2, 4],
+        [3, 3],
+    ]
+    targets = [9, 6, 6]
+    expected = [
+        [0, 1],
+        [1, 2],
+        [0, 1],
+    ]
+
+    for i in range(len(inputs)):
+        result = solution.two_sum(inputs[i], targets[i])
+        print(f"调用: two_sum({inputs[i]}, {targets[i]})")
+        print(f"预期结果: {expected[i]}")
+        print(f"实际结果: {result}")
+        print()

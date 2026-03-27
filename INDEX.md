@@ -5,7 +5,7 @@
 | 日期 | 题目 | 难度 | 题型 | 语言 | 目录 |
 |---|---|---|---|---|---|
 | 2026-03-26 | LeetCode 3 - 无重复字符的最长子串 | Medium | 滑动窗口 | Java + Python | `problems/2026/03/2026-03-26-leetcode-3-无重复字符最长子串/` |
-| 2026-03-27 | Two Sum（示例） | Easy | 哈希表 | Java + Python | `problems/2026/03/2026-03-27-two-sum/` |
+| 2026-03-27 | LeetCode 1 - 两数之和 | Easy | 哈希表 | Java + Python | `problems/2026/03/2026-03-27-leetcode-1-两数之和/` |
 
 ## 题型建议枚举（保持统一）
 
