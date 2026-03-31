@@ -72,6 +72,7 @@ DailyAlgorithmPractice/
 - 按难度：在 `INDEX.md` 中筛选 `Easy/Medium/Hard`
 - 按题型：在 `INDEX.md` 的「题型」列筛选（双指针、二分、DP 等）
 - 按关键词：本地搜索 `README.md` 中关键词
+- 看总览：执行 `python3 refresh_catalog.py` 后查看 `CATALOG.md`（含统计和完整目录）
 
 ## 约定
 

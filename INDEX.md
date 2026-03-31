@@ -6,6 +6,8 @@
 |---|---|---|---|---|---|
 | 2026-03-26 | LeetCode 3 - 无重复字符的最长子串 | Medium | 滑动窗口 | Java + Python | `problems/2026/03/2026-03-26-leetcode-3-无重复字符最长子串/` |
 | 2026-03-27 | LeetCode 1 - 两数之和 | Easy | 哈希表 | Java + Python | `problems/2026/03/2026-03-27-leetcode-1-两数之和/` |
+| 2026-03-30 | LeetCode 2 - 两数相加 | Medium | 链表 | Java + Python | `problems/2026/03/2026-03-30-leetcode-2-两数相加/` |
+| 2026-03-31 | LeetCode 20 - 有效的括号 | Easy | 栈 | Java + Python | `problems/2026/03/2026-03-31-leetcode-20-有效的括号/` |
 
 ## 题型建议枚举（保持统一）
 
