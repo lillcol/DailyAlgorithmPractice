@@ -66,6 +66,27 @@ DailyAlgorithmPractice/
 
 随后你只需要填写题目内容并更新 `INDEX.md`。
 
+## 一键同步题面图片（可选）
+
+当 LeetCode 题面包含示意图时，可自动下载并插入到题目 README：
+
+```bash
+python3 sync_leetcode_images.py <题目README路径>
+```
+
+示例：
+
+```bash
+python3 sync_leetcode_images.py "problems/2026/04/2026-04-04-leetcode-11-盛最多水的容器/README.md"
+python3 sync_leetcode_images.py --all
+```
+
+脚本会自动：
+
+- 从 README 里的 LeetCode 链接提取题目 slug
+- 拉取题面并下载图片到该题目录的 `images/`
+- 在 README 插入 `## 题目原图（来自 LeetCode）` 小节，使用本地相对路径引用
+
 ## 检索方式（无需任何依赖）
 
 - 按日期：直接按目录进入 `problems/YYYY/MM/`

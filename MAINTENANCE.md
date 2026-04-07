@@ -8,6 +8,7 @@
 4. 完整填写 `SolutionLC<题号>.java`（详细注释）。
 5. 完整填写 `SolutionLC<题号>.py`（详细注释）。
 6. 更新 `INDEX.md`（新增一行记录）。
+7. 题目若有图，执行 `python3 sync_leetcode_images.py <README路径>` 同步题面示意图。
 
 ## 二、目录命名规范
 
@@ -52,3 +53,4 @@
 - 首次使用若无执行权限，请运行：`chmod +x new_problem.sh`
 - 传入参数中 `title_short` 可中文，脚本会自动将空格替换为 `-`。
 - 若当天已存在同名目录，脚本会拒绝覆盖，避免误删历史内容。
+- 图片同步脚本：`sync_leetcode_images.py`（会把题面图下载到题目目录的 `images/`）。

@@ -10,6 +10,11 @@
 | 2026-03-31 | LeetCode 20 - 有效的括号 | Easy | 栈 | Java + Python | `problems/2026/03/2026-03-31-leetcode-20-有效的括号/` |
 | 2026-04-01 | LeetCode 5 - 最长回文子串 | Medium | 字符串 | Java + Python | `problems/2026/04/2026-04-01-leetcode-5-最长回文子串/` |
 | 2026-04-02 | LeetCode 21 - 合并两个有序链表 | Easy | 链表 | Java + Python | `problems/2026/04/2026-04-02-leetcode-21-合并两个有序链表/` |
+| 2026-04-03 | LeetCode 53 - 最大子数组和 | Medium | 动态规划 | Java + Python | `problems/2026/04/2026-04-03-leetcode-53-最大子数组和/` |
+| 2026-04-04 | LeetCode 11 - 盛最多水的容器 | Medium | 双指针 | Java + Python | `problems/2026/04/2026-04-04-leetcode-11-盛最多水的容器/` |
+| 2026-04-05 | LeetCode 15 - 三数之和 | Medium | 双指针 | Java + Python | `problems/2026/04/2026-04-05-leetcode-15-三数之和/` |
+| 2026-04-06 | LeetCode 17 - 电话号码的字母组合 | Medium | 回溯 | Java + Python | `problems/2026/04/2026-04-06-leetcode-17-电话号码的字母组合/` |
+| 2026-04-07 | LeetCode 70 - 爬楼梯 | Easy | 动态规划 | Java + Python | `problems/2026/04/2026-04-07-leetcode-70-爬楼梯/` |
 
 ## 题型建议枚举（保持统一）
 
