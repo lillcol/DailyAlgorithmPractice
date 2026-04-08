@@ -15,6 +15,7 @@
 | 2026-04-05 | LeetCode 15 - 三数之和 | Medium | 双指针 | Java + Python | `problems/2026/04/2026-04-05-leetcode-15-三数之和/` |
 | 2026-04-06 | LeetCode 17 - 电话号码的字母组合 | Medium | 回溯 | Java + Python | `problems/2026/04/2026-04-06-leetcode-17-电话号码的字母组合/` |
 | 2026-04-07 | LeetCode 70 - 爬楼梯 | Easy | 动态规划 | Java + Python | `problems/2026/04/2026-04-07-leetcode-70-爬楼梯/` |
+| 2026-04-08 | LeetCode 141 - 环形链表 | Easy | 链表 | Java + Python | `problems/2026/04/2026-04-08-leetcode-141-环形链表/` |
 
 ## 题型建议枚举（保持统一）
 
