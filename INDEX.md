@@ -16,6 +16,7 @@
 | 2026-04-06 | LeetCode 17 - 电话号码的字母组合 | Medium | 回溯 | Java + Python | `problems/2026/04/2026-04-06-leetcode-17-电话号码的字母组合/` |
 | 2026-04-07 | LeetCode 70 - 爬楼梯 | Easy | 动态规划 | Java + Python | `problems/2026/04/2026-04-07-leetcode-70-爬楼梯/` |
 | 2026-04-08 | LeetCode 141 - 环形链表 | Easy | 链表 | Java + Python | `problems/2026/04/2026-04-08-leetcode-141-环形链表/` |
+| 2026-04-09 | LeetCode 101 - 对称二叉树 | Easy | 二叉树 | Java + Python | `problems/2026/04/2026-04-09-leetcode-101-对称二叉树/` |
 
 ## 题型建议枚举（保持统一）
 
