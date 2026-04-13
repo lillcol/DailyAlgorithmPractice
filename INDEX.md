@@ -18,6 +18,9 @@
 | 2026-04-08 | LeetCode 141 - 环形链表 | Easy | 链表 | Java + Python | `problems/2026/04/2026-04-08-leetcode-141-环形链表/` |
 | 2026-04-09 | LeetCode 101 - 对称二叉树 | Easy | 二叉树 | Java + Python | `problems/2026/04/2026-04-09-leetcode-101-对称二叉树/` |
 | 2026-04-10 | LeetCode 121 - 买卖股票的最佳时机 | Easy | 贪心 | Java + Python | `problems/2026/04/2026-04-10-leetcode-121-买卖股票的最佳时机/` |
+| 2026-04-11 | LeetCode 22 - 括号生成 | Medium | 回溯 | Java + Python | `problems/2026/04/2026-04-11-leetcode-22-括号生成/` |
+| 2026-04-12 | LeetCode 146 - LRU 缓存 | Medium | 哈希表 | Java + Python | `problems/2026/04/2026-04-12-leetcode-146-LRU缓存/` |
+| 2026-04-13 | LeetCode 56 - 合并区间 | Medium | 数组 | Java + Python | `problems/2026/04/2026-04-13-leetcode-56-合并区间/` |
 
 ## 题型建议枚举（保持统一）
 
