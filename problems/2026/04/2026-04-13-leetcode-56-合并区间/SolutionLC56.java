@@ -47,5 +47,9 @@ public class SolutionLC56 {
         int[][] in2 = {{1, 4}, {4, 5}};
         int[][] out2 = {{1, 5}};
         System.out.println("示例2: " + deepEquals(solution.merge(in2), out2));
+
+        int[][] in3 = {{1, 3}, {2, 6}};
+        int[][] out3 = {{1, 6}};
+        System.out.println("示例3: " + deepEquals(solution.merge(in3), out3));
     }
 }

@@ -21,6 +21,7 @@
 | 2026-04-11 | LeetCode 22 - 括号生成 | Medium | 回溯 | Java + Python | `problems/2026/04/2026-04-11-leetcode-22-括号生成/` |
 | 2026-04-12 | LeetCode 146 - LRU 缓存 | Medium | 哈希表 | Java + Python | `problems/2026/04/2026-04-12-leetcode-146-LRU缓存/` |
 | 2026-04-13 | LeetCode 56 - 合并区间 | Medium | 数组 | Java + Python | `problems/2026/04/2026-04-13-leetcode-56-合并区间/` |
+| 2026-04-14 | LeetCode 136 - 只出现一次的数字 | Easy | 数组 | Java + Python | `problems/2026/04/2026-04-14-leetcode-136-只出现一次的数字/` |
 
 ## 题型建议枚举（保持统一）
 
