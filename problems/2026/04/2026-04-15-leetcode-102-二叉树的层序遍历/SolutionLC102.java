@@ -56,7 +56,7 @@ public class SolutionLC102 {
         SolutionLC102 solution = new SolutionLC102();
         // [3,9,20,null,null,15,7]
         TreeNode root = new TreeNode(3,
-                new TreeNode(9,new TreeNode(14), new TreeNode(8)),
+                new TreeNode(9),
                 new TreeNode(20, new TreeNode(15), new TreeNode(7)));
         System.out.println(solution.levelOrder(root));
     }
